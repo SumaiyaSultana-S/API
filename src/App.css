@@ -1,0 +1,59 @@
+.amiase {
+    height: 499px;
+    width: 300px;
+    margin-top: 30px;
+    transition: 0.5s;
+    
+   
+}
+.amiase:hover{
+    box-shadow: 0 0 9px rgba(0, 0, 0, 0.556);
+}
+.amiase h1{
+    
+    font-size: 20px;
+    font-weight: 700;
+    cursor: pointer;
+
+}
+.amiase h2{
+    
+    font-size: 15px;
+    font-weight: 200;
+}
+.aminai{
+
+    margin:30px 0 0 8px;
+}
+.aminai h5{
+    font-size: 16px;
+    color: #808080;
+}
+.aminai h4{
+
+    color: #f47c05;
+
+}
+.aminai p{
+    font-size: 16px;
+    color: #000;
+    font-weight: 700;
+
+}
+.aminai h3 {
+    height: 40px;
+    width: 288px;
+    cursor: pointer;
+
+}
+.amiase img {
+    height: 329px;
+    width: 300px;
+}
+
+.aminai h2 {
+    color: #f47c05;
+    position: relative;
+    top: -23px;
+    left: 119px;
+}
